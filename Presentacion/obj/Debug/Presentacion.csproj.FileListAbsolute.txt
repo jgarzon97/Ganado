@@ -1,0 +1,16 @@
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\obj\Debug\Presentacion.Formularios.frm_mdi.resources
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\obj\Debug\Presentacion.Formularios.Ingresos.frm_edit_camion.resources
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\obj\Debug\Presentacion.Formularios.Ingresos.frm_edit_chofer.resources
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\obj\Debug\Presentacion.Formularios.Tablas.frm_admin_camion.resources
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\obj\Debug\Presentacion.Formularios.Tablas.frm_admin_chofer.resources
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\obj\Debug\Presentacion.Formularios.Ingresos.frm_edit_ganado.resources
+C:\Users\Jorge Garzón\source\repos\AppGanado\Presentacion\obj\Debug\Presentacion.Formularios.Tablas.frm_admin_ganado.resources
